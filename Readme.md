@@ -171,9 +171,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Onkar%20Ghugare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/onkarhugar08">
-  <img src="https://img.shields.io/badge/GitHub-onkarghugare08-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 <br/><br/>
 

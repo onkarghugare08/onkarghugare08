@@ -39,52 +39,45 @@
 <div align="center">
 
 **Linux · Scripting · Version Control**
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github"/>
 
-<br/><br/>
-
 **Containers & Orchestration**
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
 
-<br/><br/>
-
-**CI/CD & Automation**
-
+**CI/CD & GitOps**
 <br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions"/>
-
-<br/><br/>
-
-**Infrastructure as Code & Cloud**
-
+**Infrastructure as Code & Configuration**
 <br/>
-
-<img src="https://skillicons.dev/icons?i=terraform,aws"/>
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
 
 **Monitoring & Observability**
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 
-<br/><br/>
-
-**Programming & Web**
-
+**Cloud**
 <br/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,nginx"/>
+**DevSecOps**
+<br/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+**Observability Exporters**
+<br/>
+<img src="https://img.shields.io/badge/cAdvisor-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge"/>
 
 </div>
+
 
 ---
 

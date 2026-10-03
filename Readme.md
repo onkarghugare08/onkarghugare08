@@ -82,7 +82,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,react,nginx"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,nginx"/>
 
 </div>
 

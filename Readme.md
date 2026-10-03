@@ -123,22 +123,18 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=onkarghugar08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarghugare08&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api?username=onkarghugar08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=onkarghugar08&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+<br>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=onkarghugar08&theme=tokyonight&hide_border=true"/>
 </div>
 
-<br/>
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=onkarghugare08&theme=tokyonight&hide_border=true"/>
 
-</div>
 
 ---
 

@@ -8,11 +8,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/onkar-ghugare/">
+<a href="https://www.linkedin.com/in/onkarghugare1817/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/onkar-1817">
+<a href="https://github.com/onkarghugare08">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=onkar-1817&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=onkarghugare08&theme=tokyonight&hide_border=true"/>
 
 </div>
 

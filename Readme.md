@@ -124,8 +124,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api?username=onkarghugar08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=onkarghugar08&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api?username=onkarghugare08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=onkarghugare08&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 <br>
 <div align="center">
